@@ -42,7 +42,6 @@ O objetivo deste repositório é oferecer um ambiente organizado para treinar:
 10 - Introdução ao HTTP e consumo de APIs com Fetch 
 11 - Desenvolvimento do Projeto Prático - Parte 01
 12 - Desenvolvimento do Projeto Prático - Parte 02
-![image](https://github.com/user-attachments/assets/76a5a9d5-5ebf-4e2b-9947-429bedc59a53)
 
 
 ## 📧 **Contato**
